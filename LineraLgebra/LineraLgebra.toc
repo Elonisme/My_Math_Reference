@@ -1,0 +1,14 @@
+\contentsline {chapter}{\numberline {1}行列式}{1}{chapter.1}%
+\contentsline {chapter}{\numberline {2}矩阵}{2}{chapter.2}%
+\contentsline {chapter}{\numberline {3}向量}{3}{chapter.3}%
+\contentsline {chapter}{\numberline {4}线性方程组}{4}{chapter.4}%
+\contentsline {chapter}{\numberline {5}特征值、特征向量、相似对角化}{5}{chapter.5}%
+\contentsline {chapter}{\numberline {6}二次型}{6}{chapter.6}%
+\contentsline {chapter}{\numberline {7}ElegantBook 写作示例}{7}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Lebesgue 积分}{7}{section.7.1}%
+\contentsline {subsection}{\numberline {7.1.1}积分的定义}{7}{subsection.7.1.1}%
+\contentsline {section}{第 7{} 章\nobreakspace {}练习}{9}{section*.3}%
+\contentsline {chapter}{\numberline {8}常见问题集}{10}{chapter.8}%
+\renewcommand {\cftchappresnum }{附录 }\renewcommand {\cftchapaftersnum }{}
+\contentsline {chapter}{\numberline {A}基本数学工具}{11}{appendix.A}%
+\contentsline {section}{\numberline {A.1}求和算子与描述统计量}{11}{section.A.1}%

@@ -1,0 +1,15 @@
+\contentsline {chapter}{\numberline {1}随机事件和概率}{1}{chapter.1}%
+\contentsline {chapter}{\numberline {2}一维随机变量及其分布}{2}{chapter.2}%
+\contentsline {chapter}{\numberline {3}二维随机变量及其分布}{3}{chapter.3}%
+\contentsline {chapter}{\numberline {4}随机变量的数字特征}{4}{chapter.4}%
+\contentsline {chapter}{\numberline {5}大数定理和中心极限定理}{5}{chapter.5}%
+\contentsline {chapter}{\numberline {6}数理统计的基本概念}{6}{chapter.6}%
+\contentsline {chapter}{\numberline {7}参数估计与假设}{7}{chapter.7}%
+\contentsline {chapter}{\numberline {8}ElegantBook 写作示例}{8}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Lebesgue 积分}{8}{section.8.1}%
+\contentsline {subsection}{\numberline {8.1.1}积分的定义}{8}{subsection.8.1.1}%
+\contentsline {section}{第 8{} 章\nobreakspace {}练习}{10}{section*.3}%
+\contentsline {chapter}{\numberline {9}常见问题集}{11}{chapter.9}%
+\renewcommand {\cftchappresnum }{附录 }\renewcommand {\cftchapaftersnum }{}
+\contentsline {chapter}{\numberline {A}基本数学工具}{12}{appendix.A}%
+\contentsline {section}{\numberline {A.1}求和算子与描述统计量}{12}{section.A.1}%
