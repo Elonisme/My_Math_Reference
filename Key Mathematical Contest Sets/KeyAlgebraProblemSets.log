@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.8) (preloaded format=xelatex 2022.8.20)  20 AUG 2022 20:36
+This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.8) (preloaded format=xelatex 2022.8.26)  26 AUG 2022 12:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -9,7 +9,7 @@ raProblemSets.tex"
 (c:/Users/41630/Desktop/我的笔记/我的讲义/考研数学/Key Mathematical Contest Sets/KeyAlgebra
 ProblemSets.tex
 LaTeX2e <2022-06-01> patch level 5
-L3 programming layer <2022-08-05> (elegantbook.cls
+L3 programming layer <2022-08-23> (elegantbook.cls
 Document Class: elegantbook 2022/04/09 v4.3 ElegantBook document class
 (D:\Miktex\tex/latex/kvoptions\kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
@@ -236,10 +236,10 @@ Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
 (D:\Miktex\tex/latex/fontspec\fontspec.sty
 (D:\Miktex\tex/latex/l3packages/xparse\xparse.sty
 (D:\Miktex\tex/latex/l3kernel\expl3.sty
-Package: expl3 2022-08-05 L3 programming layer (loader) 
+Package: expl3 2022-08-23 L3 programming layer (loader) 
 
 (D:\Miktex\tex/latex/l3backend\l3backend-xetex.def
-File: l3backend-xetex.def 2022-08-05 L3 backend support: XeTeX
+File: l3backend-xetex.def 2022-08-23 L3 backend support: XeTeX
 \g__graphics_track_int=\count279
 \l__pdf_internal_box=\box52
 \g__pdf_backend_object_int=\count280
@@ -974,7 +974,7 @@ Package biblatex Info: XeTeX detected.
 (biblatex)             Assuming input encoding 'utf8'.
 Package biblatex Info: Document encoding is UTF8 ....
 Package biblatex Info: ... and expl3
-(biblatex)             2022-08-05 L3 programming layer (loader) 
+(biblatex)             2022-08-23 L3 programming layer (loader) 
 (biblatex)             is new enough (at least 2020/04/06),
 (biblatex)             setting 'casechanger=expl3'.
 
@@ -1749,10 +1749,10 @@ Package logreq Info: Writing requests to 'KeyAlgebraProblemSets.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 45488 strings out of 410644
- 957533 string characters out of 2823106
- 1886069 words of memory out of 3000000
- 65842 multiletter control sequences out of 15000+600000
+ 45489 strings out of 410636
+ 957557 string characters out of 2822899
+ 1886449 words of memory out of 3000000
+ 65851 multiletter control sequences out of 15000+600000
  474719 words of font info for 92 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  103i,12n,107p,764b,1318s stack positions out of 10000i,1000n,20000p,200000b,80000s

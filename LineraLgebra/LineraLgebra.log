@@ -1,13 +1,12 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.8) (preloaded format=xelatex 2022.8.20)  20 AUG 2022 14:37
+This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.8) (preloaded format=xelatex 2022.8.26)  26 AUG 2022 12:44
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"e:/DownloadSouse/Google/GoogleDownload/ElegantBook Template/LineraLgebra.tex
-"
-(e:/DownloadSouse/Google/GoogleDownload/ElegantBook Template/LineraLgebra.tex
+**c:/Users/41630/Desktop/我的笔记/我的讲义/考研数学/LineraLgebra/LineraLgebra.tex
+(c:/Users/41630/Desktop/我的笔记/我的讲义/考研数学/LineraLgebra/LineraLgebra.tex
 LaTeX2e <2022-06-01> patch level 5
-L3 programming layer <2022-08-05> (elegantbook.cls
+L3 programming layer <2022-08-23> (elegantbook.cls
 Document Class: elegantbook 2022/04/09 v4.3 ElegantBook document class
 (D:\Miktex\tex/latex/kvoptions\kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
@@ -234,10 +233,10 @@ Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
 (D:\Miktex\tex/latex/fontspec\fontspec.sty
 (D:\Miktex\tex/latex/l3packages/xparse\xparse.sty
 (D:\Miktex\tex/latex/l3kernel\expl3.sty
-Package: expl3 2022-08-05 L3 programming layer (loader) 
+Package: expl3 2022-08-23 L3 programming layer (loader) 
 
 (D:\Miktex\tex/latex/l3backend\l3backend-xetex.def
-File: l3backend-xetex.def 2022-08-05 L3 backend support: XeTeX
+File: l3backend-xetex.def 2022-08-23 L3 backend support: XeTeX
 \g__graphics_track_int=\count279
 \l__pdf_internal_box=\box52
 \g__pdf_backend_object_int=\count280
@@ -972,7 +971,7 @@ Package biblatex Info: XeTeX detected.
 (biblatex)             Assuming input encoding 'utf8'.
 Package biblatex Info: Document encoding is UTF8 ....
 Package biblatex Info: ... and expl3
-(biblatex)             2022-08-05 L3 programming layer (loader) 
+(biblatex)             2022-08-23 L3 programming layer (loader) 
 (biblatex)             is new enough (at least 2020/04/06),
 (biblatex)             setting 'casechanger=expl3'.
 
@@ -1490,7 +1489,7 @@ LaTeX Font Info:    Font shape `TU/texgyretermes(0)/b/n' will be
 )
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... none found.
-(LineraLgebra.aux)
+No file LineraLgebra.aux.
 \openout1 = `LineraLgebra.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
@@ -1514,10 +1513,11 @@ LaTeX Font Info:    ... okay on input line 26.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 26.
 LaTeX Font Info:    ... okay on input line 26.
 Package hyperref Info: Link coloring ON on input line 26.
- (LineraLgebra.out) (LineraLgebra.out)
 \@outlinefile=\write7
 \openout7 = `LineraLgebra.out'.
 
+
+Package hyperref Warning: Rerun to get /PageLabels entry.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -1653,75 +1653,178 @@ File: ./figure//logo.png Graphic file (type bmp)
 ]
 LaTeX Font Info:    Font shape `TU/texgyretermes(0)/b/n' will be
 (Font)              scaled to size 17.28pt on input line 31.
- (LineraLgebra.toc)
+
+No file LineraLgebra.toc.
 \tf@toc=\write8
 \openout8 = `LineraLgebra.toc'.
 
- [1
+[1
 
 
 
 ]
 Chapter 1.
+LaTeX Font Info:    Font shape `TU/texgyretermes(0)/b/n' will be
+(Font)              scaled to size 12.0pt on input line 37.
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 39.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 39.
+
 [1
 
 
 ]
-Chapter 2.
-[2
+Missing character: There is no ， in font cmr10!
+Missing character: There is no ， in font cmr10!
+LaTeX Font Info:    Font shape `TU/texgyretermes(0)/m/n' will be
+(Font)              scaled to size 9.0pt on input line 176.
+[2] [3]
 
-]
+Package tcolorbox Warning: Using nobreak failed. Try to enlarge `lines before b
+reak' or set page breaks manually on input line 270.
+
+[4]
+Chapter 2.
+LaTeX Font Info:    Font shape `TU/texgyretermes(0)/m/it' will be
+(Font)              scaled to size 10.0pt on input line 347.
+LaTeX Font Info:    Font shape `TU/texgyretermes(0)/m/n' will be
+(Font)              scaled to size 7.0pt on input line 347.
+LaTeX Font Info:    Font shape `TU/texgyretermes(0)/m/n' will be
+(Font)              scaled to size 5.0pt on input line 347.
+[5
+
+] [6]
+
+Package tcolorbox Warning: Using nobreak failed. Try to enlarge `lines before b
+reak' or set page breaks manually on input line 439.
+
+[7]
+c:/Users/41630/Desktop/我的笔记/我的讲义/考研数学/LineraLgebra/LineraLgebra.tex:521: Undefi
+ned control sequence.
+l.521         \item $\vert A \pm \B
+                                    \vert$不一定等于$\vert A \vert \pm \vert B \v...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[8]
+Missing character: There is no ， in font cmr10!
+c:/Users/41630/Desktop/我的笔记/我的讲义/考研数学/LineraLgebra/LineraLgebra.tex:571: Undefi
+ned control sequence.
+l.571         \item $\vert A^{-1} \ver
+                                       = \vert A \vert ^{-1}$
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[9] [10]
+
+Package tcolorbox Warning: Using nobreak failed. Try to enlarge `lines before b
+reak' or set page breaks manually on input line 666.
+
+
+LaTeX Warning: Command \k invalid in math mode on input line 733.
+
+Missing character: There is no ̨ in font cmmi10!
+[11] [12]
+
+Package tcolorbox Warning: Using nobreak failed. Try to enlarge `lines before b
+reak' or set page breaks manually on input line 830.
+
+[13]
 Chapter 3.
-[3
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 834.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 834.
+
+[14
 
 ]
 Chapter 4.
-[4
+[15
 
 ]
 Chapter 5.
-[5
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 850.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 850.
+
+[16
 
 ]
 Chapter 6.
-[6
+[17
 
 ]
 Chapter 7.
-LaTeX Font Info:    Font shape `TU/texgyretermes(0)/m/n' will be
-(Font)              scaled to size 7.0pt on input line 46.
-LaTeX Font Info:    Trying to load font information for U+ding on input line 46
-.
+LaTeX Font Info:    Trying to load font information for U+ding on input line 86
+1.
 (D:\Miktex\tex/latex/bbding\uding.fd
 File: Uding.fd 1996/02/01 v1.0 BBding font definitions
 )
-LaTeX Font Info:    Font shape `TU/texgyretermes(0)/b/n' will be
-(Font)              scaled to size 12.0pt on input line 60.
+
+LaTeX Warning: Reference `def:int' on page 18 undefined on input line 861.
+
+
+LaTeX Warning: Reference `thm:fubi' on page 18 undefined on input line 862.
+
+
+LaTeX Warning: Reference `pro:max' on page 18 undefined on input line 863.
+
+
+LaTeX Warning: Reference `property:cauchy' on page 18 undefined on input line 8
+64.
 
 
 LaTeX Font Warning: Font shape `TU/KaiTi(0)/b/n' undefined
-(Font)              using `TU/KaiTi(0)/m/n' instead on input line 65.
+(Font)              using `TU/KaiTi(0)/m/n' instead on input line 880.
 
-[7
+
+LaTeX Warning: Reference `exer:43' on page 18 undefined on input line 896.
+
+[18
 
 ]
+
+LaTeX Warning: Reference `eq:461' on page 19 undefined on input line 922.
+
+
+LaTeX Warning: Reference `thm:fubi' on page 19 undefined on input line 925.
+
+
+LaTeX Warning: Reference `thm:fubi' on page 19 undefined on input line 928.
+
 File: ./image//scatter.jpg Graphic file (type bmp)
 <./image//scatter.jpg>
+[19]
 LaTeX Font Info:    Font shape `TU/texgyretermes(0)/m/n' will be
-(Font)              scaled to size 9.0pt on input line 132.
- [8]
-LaTeX Font Info:    Font shape `TU/texgyretermes(0)/m/n' will be
-(Font)              scaled to size 14.4pt on input line 145.
- [9]
+(Font)              scaled to size 14.4pt on input line 960.
+ [20]
 Chapter 8.
 
-LaTeX Warning: Empty bibliography on input line 154.
+LaTeX Warning: Empty bibliography on input line 969.
 
-[10
+[21
 
 ]
 附录 A.
-[11
+[22
 
 ] (LineraLgebra.aux)
 
@@ -1730,8 +1833,17 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 LaTeX Warning: There were undefined references.
 
-Package rerunfilecheck Info: File `LineraLgebra.out' has not changed.
-(rerunfilecheck)             Checksum: E00B46C6FF93BCE8680EBD4B4A75717B;1413.
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package rerunfilecheck Warning: File `LineraLgebra.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `LineraLgebra.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  2F9DCD4410EB3CA97E0D2D062EECB481;8419.
 
 Package biblatex Warning: Please (re)run Biber on the file:
 (biblatex)                LineraLgebra
@@ -1742,12 +1854,12 @@ Package logreq Info: Writing requests to 'LineraLgebra.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 45545 strings out of 410644
- 960753 string characters out of 2823106
- 1885885 words of memory out of 3000000
- 65899 multiletter control sequences out of 15000+600000
- 474719 words of font info for 92 fonts, out of 8000000 for 9000
+ 45752 strings out of 410636
+ 966085 string characters out of 2822899
+ 1903918 words of memory out of 3000000
+ 66107 multiletter control sequences out of 15000+600000
+ 481616 words of font info for 126 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 103i,12n,107p,747b,1318s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 103i,16n,107p,736b,1322s stack positions out of 10000i,1000n,20000p,200000b,80000s
 
-Output written on LineraLgebra.pdf (13 pages).
+Output written on LineraLgebra.pdf (24 pages).
